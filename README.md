@@ -27,6 +27,6 @@ frequently face financial losses due to Lapses during sourcing.
 
 Created a CNN Model and Saved Model
 
-Check the Model here- (https://github.com/GKM15/Fraud-Risk-Model-Live-Photo/blob/main/Fraud%20Risk%20Model-%20Live%20Photo.ipynb)
+Check the Model's Approach and Code here- (https://github.com/GKM15/Fraud-Risk-Model-Live-Photo/blob/main/Fraud%20Risk%20Model-%20Live%20Photo.ipynb)
 
 
