@@ -8,12 +8,12 @@
 Fintech entities/Banks/NBFC's Dealing In-Store Products such as Consumer Loans
 frequently face financial losses due to Lapses during sourcing.
 
-**This Project's Goal is to Design a Model to Detect Faces and to Validate Applicant's Identity**
+**This Project's Goal is to Design a Model to Detect Whether Photo captured during sourcing is a Live Photo or a Screengrab**
 
-## Different Types of Fraud's which Occour In-Store OTC(Over the Counter) Products:-
+##  Fraud Modus operandi:-
 
 
-- Scenario :- Sourcing Agent Takes Screenshot from a Digital Source instead of Live Photo of Applicant
+- Scenario :- Sourcing Agent Takes Screenshot from a Digital Source instead of Live Photo of Customer
 
 ## Project Steps ##
 
