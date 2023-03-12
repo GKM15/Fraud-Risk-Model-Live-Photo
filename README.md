@@ -13,8 +13,18 @@ frequently face financial losses due to Lapses during sourcing.
 ## Different Types of Fraud's which Occour In-Store OTC(Over the Counter) Products:-
 
 
-- Scenario 1:- Sourcing Agent Takes Blank Photo instead of Customer's Photo
-- Scenario 2:- Sourcing Agent Takes Screenshot from a Digital Source instead of Live Photo of Applicant
+- Scenario :- Sourcing Agent Takes Screenshot from a Digital Source instead of Live Photo of Applicant
 
+## Project Steps ##
+
+- Building a Data Pipeline
+- Preprocessing Images
+- Creating a Deep Neural network Classifier
+- Evaluating Model performance
+- Saving Model for Deployment
+
+## Project Steps ##
+
+Created a CNN Model and Saved Model
 
 
